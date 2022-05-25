@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    justify-content: space-between ;
+}
+h2{
+    text-align:center;
+    justify-content: space-between ;
+}
+p{
+    text-align:center;
+    justify-content: space-between ;
+}
+h3{
+    text-align: center;
+    justify-content: space-between;
+}
+#carlao{
+    text-decoration: none;
+    color:transparent;
+}
+#navbar{
+    background-color: rgb(140, 12, 179);
+    
+}
+body {
+    background-color: rgb(71, 56, 211);
+}
+
+
+
