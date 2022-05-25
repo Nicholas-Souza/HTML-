@@ -9,12 +9,21 @@ section{
     color: aliceblue;
 }
 
+section2{
+    
+    width: 100%;
+    height: 100vh;
+
+    color: aliceblue;
+}
+
+
 h1{
 
     text-align:center;
     justify-content: space-between ;
 }
-h2{
+#intro{
 
     text-align:center;
     justify-content: space-between ;
@@ -24,7 +33,7 @@ p{
     text-align:center;
     justify-content: space-between ;
 }
-h3{
+#price{
 
     text-align: center;
     justify-content: space-between;
